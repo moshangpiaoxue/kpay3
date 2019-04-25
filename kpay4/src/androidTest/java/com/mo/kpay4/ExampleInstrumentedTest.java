@@ -1,4 +1,4 @@
-package com.mo.kpay2;
+package com.mo.kpay4;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.mo.kpay2.test", appContext.getPackageName());
+        assertEquals("com.mo.kpay4.test", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.mo.kpay2.ccb;
+package com.mo.kpay4.ccb;
 
 import com.ccb.ccbnetpay.message.CcbPayResultListener;
 

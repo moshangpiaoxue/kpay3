@@ -1,4 +1,4 @@
-package com.mo.kpay2.ccb;
+package com.mo.kpay4.ccb;
 
 import android.app.Dialog;
 import android.app.ProgressDialog;
