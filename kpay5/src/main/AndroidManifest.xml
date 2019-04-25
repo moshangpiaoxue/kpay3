@@ -7,7 +7,7 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
-    <application android:networkSecurityConfig="@xml/network_security_config">
+    <application >
         <!-- 建行支付相关 -->
         <activity
             android:name="com.ccb.ccbnetpay.activity.CcbH5PayActivity"
