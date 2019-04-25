@@ -1,1 +1,1 @@
-include ':app', ':kpay4'
+include ':app', ':kpay'
