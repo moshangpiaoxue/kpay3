@@ -1,4 +1,4 @@
-package mo.kpay;
+package com.mo.kpay2;
 
 import org.junit.Test;
 

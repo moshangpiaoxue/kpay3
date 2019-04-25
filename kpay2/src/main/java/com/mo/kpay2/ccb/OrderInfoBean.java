@@ -1,4 +1,4 @@
-package mo.kpay.ccb;
+package com.mo.kpay2.ccb;
 
 import java.io.Serializable;
 

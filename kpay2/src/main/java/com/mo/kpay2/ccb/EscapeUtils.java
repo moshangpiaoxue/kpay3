@@ -1,4 +1,4 @@
-package mo.kpay.ccb;
+package com.mo.kpay2.ccb;
 
 public class EscapeUtils {
 	private final static String[] hex = { "00", "01", "02", "03", "04", "05",
