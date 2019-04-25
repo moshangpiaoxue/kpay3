@@ -1,0 +1,9 @@
+<network-security-config>
+    <!--支付宝9.0适配，http相关-->
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+            <certificates src="user" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
